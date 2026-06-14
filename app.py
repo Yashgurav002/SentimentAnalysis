@@ -1,6 +1,3 @@
-
-pip install transformers torch gradio
-
 import gradio as gr
 from transformers import pipeline
 
